@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: e1e9efeacef424f08a0b64f101abcd46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wari_sheet5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98983a3449fbd4663a6dae72ad73ffb4
+      internalID: 212804396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 227.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f6f7f34951479b8e75d3ed47f4519
+      internalID: -370177341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 227.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d5772253744c8e907efde67ce05c1
+      internalID: -1761552419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 227.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381c85a881f614c3abc970ab866d8e50
+      internalID: -652514403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff81609097041ee817984afaf676e9
+      internalID: 982076261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac93113626b4a77a8c24e5473e175e
+      internalID: -758049334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 199.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49467765ceb074b2b907c02b7e55c00b
+      internalID: 1974858704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f6c2926c384a1cb690a9114befdd1
+      internalID: -104958800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 199.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374bc73786f744227ab193b05e27f8a6
+      internalID: -1735501087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3418241d69b34e2492d00cc0d375587
+      internalID: 102224310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e9657f28c05406b947b4707dea927e
+      internalID: 689374893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005873edeeb5436aaa0f3346e342c5e
+      internalID: -664911377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1915c5e677564d93ae0c42ca851e7ac
+      internalID: -45318038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7431eddb0ad746c49685bce91305e9d
+      internalID: 967591231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8dae750c7844719a94d9c82fff284d
+      internalID: -153931668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73489a39073ef486e9178e05e8407714
+      internalID: -1001112477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350690629e09476cac5c05cb1abe213
+      internalID: -739951396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf68e31fddb04cd2b8c86c1cd0384de
+      internalID: -2063380499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f0ac60c53254aa198d718fede7b495
+      internalID: 1226838621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea80ad57ae4447ce9e6126fdf3a4151
+      internalID: 56567097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccce504873cb4a499a2e67b01c28791
+      internalID: -1751694176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8343882c7d8044e61ad0527ab99a8f4f
+      internalID: -592546847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889dcae231ae74f99908cb06345ce296
+      internalID: 1465729581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65b2c60cf3c4b1887e8042b74a6d96
+      internalID: 1959674486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17296e8f763045d5be22393b369495a
+      internalID: -999534985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a37e0c4be584beeab41439ebd3ed5f
+      internalID: 1779811894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb36bd7f54a0149cf95a100b4bedbedb
+      internalID: -760457834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f334234be4cc452296b225b4aac6867
+      internalID: 800343278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 87.55556
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82e5ce56c62474485a24c1e78ef0ce
+      internalID: 320222753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59.555557
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d76277c1acb4abda2552af5bd1b7f9
+      internalID: 985310435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59.555557
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26703153081f6441fba7863c24f8ff24
+      internalID: -1717604373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59.555557
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d749109582e649419ca3c4b96b6547a
+      internalID: 1942820969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3.5555553
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28cfca4f57554530b06dac9629efc12
+      internalID: 1200728618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wari_sheet5_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3.5555553
+        width: 16
+        height: 28.444445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad8c9f137844843a7e8f3bf211c993
+      internalID: 1871684716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wari_sheet5_0: 212804396
+      wari_sheet5_1: -370177341
+      wari_sheet5_10: 689374893
+      wari_sheet5_11: -664911377
+      wari_sheet5_12: -45318038
+      wari_sheet5_13: 967591231
+      wari_sheet5_14: -153931668
+      wari_sheet5_15: -1001112477
+      wari_sheet5_16: -739951396
+      wari_sheet5_17: -2063380499
+      wari_sheet5_18: 1226838621
+      wari_sheet5_19: 56567097
+      wari_sheet5_2: -1761552419
+      wari_sheet5_20: -1751694176
+      wari_sheet5_21: -592546847
+      wari_sheet5_22: 1465729581
+      wari_sheet5_23: 1959674486
+      wari_sheet5_24: -999534985
+      wari_sheet5_25: 1779811894
+      wari_sheet5_26: -760457834
+      wari_sheet5_27: 800343278
+      wari_sheet5_28: 320222753
+      wari_sheet5_29: 985310435
+      wari_sheet5_3: -652514403
+      wari_sheet5_30: -1717604373
+      wari_sheet5_31: 1942820969
+      wari_sheet5_32: 1200728618
+      wari_sheet5_33: 1871684716
+      wari_sheet5_4: 982076261
+      wari_sheet5_5: -758049334
+      wari_sheet5_6: 1974858704
+      wari_sheet5_7: -104958800
+      wari_sheet5_8: -1735501087
+      wari_sheet5_9: 102224310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
