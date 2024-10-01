@@ -117,7 +117,7 @@ using UnityEngine;
 public class PlayerController_V3 : MonoBehaviour
 {
     public float moveSpeed;
-    public LayerMask collisionLayer; // Layer for walls/obstacles
+    public LayerMask collisionLayer; // Layer for walls/obstacle
 
     private bool isMoving;
     private Vector2 input;
@@ -221,10 +221,24 @@ public class PlayerController_V3 : MonoBehaviour
     // Checks if the player can move to the target position
     private bool CanMove(Vector3 targetPos)
     {
-        // Cast a small box (like the player collider) to check for collisions at the target position
+        // Cast a ray in the direction of travel to look for any blockages
         RaycastHit2D hit = Physics2D.Raycast(transform.position, (targetPos - transform.position).normalized, 1f, collisionLayer);
         return hit.collider == null; // Return true if no collider is hit
     }
+
+    //private bool IsPushableEntityPresent(Vector3 targetPos)
+    //{
+    //    // Cast a ray in the direction of travel to look for any blockages
+    //    RaycastHit2D hit = Physics2D.Raycast(transform.position, (targetPos - transform.position).normalized, 1f, IsPushableEntityLayer);
+    //    var canPushableEntityMove = false;
+    //    if (hit.collider != null)
+    //    {
+    //        // Get the component of the pushable entity
+    //        // Function take in a direction to be pushed ((targetPos - transform.position).normalized) <-- Send that to the entity
+    //        // Function (on the pushable entity) would a return a bool -> Can I be pushed in that direction (cache the result in canPushableEntityMove)
+    //    }
+    //    return canPushableEntityMove; // Return true if no collider is hit
+    //}
 
     IEnumerator Move(Vector3 targetPos)
     {
